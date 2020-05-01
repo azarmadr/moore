@@ -1,0 +1,7 @@
+[package]
+name = "better-ir"
+version = "0.1.0"
+authors = ["Fabian Schuiki <fabian@schuiki.ch>"]
+edition = "2018"
+
+[dependencies]
